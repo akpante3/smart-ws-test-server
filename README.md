@@ -17,10 +17,10 @@ It uses Node.js and the `ws` library and is intentionally small, readable, and e
 ## 🔗 Related Projects
 
 - **WebSocket Client Library (smart-ws)**  
-  https://github.com/your-username/smart-ws *(placeholder)*
+ https://www.npmjs.com/package/smart-ws
 
-- **React Demo App (smart-ws-demo)**  
-  https://github.com/your-username/smart-ws-demo *(placeholder)*
+- **React Demo App (Front-End)**  
+ https://github.com/akpante3/FE-smart-ws-demo
 
 ---
 
